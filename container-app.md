@@ -1,4 +1,6 @@
-# 🚀 deploy strapi in azure containers
+## 🚀 deploy strapi in azure containers
+
+github link: https://github.com/nikhilk1699/azure-container-strapi.git
 
 - install java openjdk-11
 - install docker
